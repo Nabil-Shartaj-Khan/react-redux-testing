@@ -6,3 +6,11 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+How Redux Works-
+
+1. Creating a store
+2. Connecting Store with App.jsx.
+3. Create slice feature wise (for example- Todo, login, registration etc)
+4. Connect with store.
+5. 
