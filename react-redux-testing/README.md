@@ -13,4 +13,4 @@ How Redux Works-
 2. Connecting Store with App.jsx.
 3. Create slice feature wise (for example- Todo, login, registration etc)
 4. Connect with store.
-5. 
+5. Use useselector and dispatch for actions.
